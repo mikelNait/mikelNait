@@ -1,6 +1,7 @@
-### Hello I'm Mikel
+# Hello I'm Mikel
 
-# I am a full-stack developer
+### I am a full-stack developer
+### My main goal is to grow and learn in order to be able to, one day, lead my own team and achieve our dreams.
 
 <!--
 **mikelNait/mikelNait** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
