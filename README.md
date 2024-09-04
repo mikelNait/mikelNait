@@ -1,6 +1,6 @@
 # Hello I'm Mikel
 
-![Cabeceras Logos](Images/CabeceraLogos.png "My tools")
+![Cabeceras Logos](Images/CabeceraLogosOne.png "My tools")
 
 ### I am a full-stack developer
 
