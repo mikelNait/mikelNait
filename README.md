@@ -14,3 +14,5 @@ I am currently open to work and learn in everything related to:
 - Python
 
 In addition, I am attracted by the operation and management of databases and I am trying to implement them in the personal projects I am developing.
+
+Right now, I am open to start working.
